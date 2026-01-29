@@ -48,10 +48,11 @@ Diabetes-Prediction-using-Classical-ML-Models/
 │ ├── XGBoost_Confusion_Matrix.png
 │ ├── XGBoost_Feature_Importance.png
 │ ├── correlation_heatmap.png
-│ ├── histogram_for_numerical_features.png
+│ └── histogram_for_numerical_features.png
 │
 ├── README.md
 └── requirements.txt
+
 Modeling and Evaluation
 
 | Model               | Accuracy | AUC  |
