@@ -34,23 +34,38 @@ Project Structure
 Diabetes-Prediction-using-Classical-ML-Models/
 │
 ├── notebooks/
+
 │ └── diabetes_prediction.ipynb
+
 │
 ├── data/
+
 │ └── diabetes.csv
+
 │
 ├── plots/
+
 │ ├── Logistic_Regression_Coefficients.png
+
 │ ├── Logistic_Regression_confusion_matrix.png
+
 │ ├── ROC_Curve_Comparison.png
+
 │ ├── Random_Forest_Confusion_matrix.png
+
 │ ├── Random_Forest_Feature_Importance.png
+
 │ ├── XGBoost_Confusion_Matrix.png
+
 │ ├── XGBoost_Feature_Importance.png
+
 │ ├── correlation_heatmap.png
+
 │ └── histogram_for_numerical_features.png
+
 │
 ├── README.md
+
 └── requirements.txt
 
 Modeling and Evaluation
